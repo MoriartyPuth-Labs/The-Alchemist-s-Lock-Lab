@@ -16,6 +16,7 @@ A technical walkthrough for solving the "Alchemist's Lock" reverse engineering c
 * Quality: ⭐ 4.0/5.0
 * File Size: 2.78 MB
 * Download: https://crackmes.one/download/crackme/69adaa15fbfe0ef21de946bd
+* Password: crackmes.one
 
 ---
 
